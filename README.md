@@ -1,5 +1,7 @@
 # FormicAcid Radar Revive 📡
 
+## IMPORTANT NOTICE: This tool is discontinued due to Rockford Map Changes.
+
 ![Project Banner](readme_banner.png?raw=true)
 
 ![Static Badge](https://img.shields.io/badge/license-MIT-red?link=https%3A%2F%2Fopensource.org%2Flicense%2Fmit) ![Static Badge](https://img.shields.io/badge/mom_made-pizza_rolls-blue?link=https%3A%2F%2Fopensource.org%2Flicense%2Fmit)
